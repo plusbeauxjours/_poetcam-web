@@ -41,3 +41,11 @@ export interface PoemStructuredData {
   inLanguage: string;
   creativeWorkStatus: string;
 }
+
+export interface SubscriptionProduct {
+  identifier: string;
+  price: number;
+  priceString: string;
+  description: string;
+  title: string;
+}

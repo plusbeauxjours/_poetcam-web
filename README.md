@@ -97,6 +97,8 @@ Create a `.env.local` file and set the following variable:
 
 ```env
 CLAUDE_API_KEY=your_claude_api_key_here
+REVENUECAT_API_KEY=your_revenuecat_api_key_here
+REVENUECAT_PROJECT_ID=your_revenuecat_project_id
 ```
 
 ## Deployment
