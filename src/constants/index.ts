@@ -65,6 +65,9 @@ export const ERROR_MESSAGES = {
     poemGenerationFailed: "Failed to generate poem",
     serverError: "Server error",
   },
+  subscription: {
+    fetchFailed: "Failed to fetch subscription products",
+  },
 } as const;
 
 // 공유 관련
